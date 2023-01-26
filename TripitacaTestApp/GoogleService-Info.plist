@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>501090164460-414gm8uhrss7nib421fngq44finhurma.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.501090164460-414gm8uhrss7nib421fngq44finhurma</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlnMtL2YGxmdMlhcq-kNdNjkiKYyThUdk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>501090164460</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.melissakobia.TripitacaTestApp</string>
+	<key>PROJECT_ID</key>
+	<string>tripitacaapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tripitacaapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:501090164460:ios:a43667d07d91218ac18fc9</string>
+</dict>
+</plist>

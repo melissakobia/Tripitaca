@@ -28,14 +28,11 @@ struct ContentView: View {
                         CustomTabView()
                     }
                 } else {
-                    if !self.isInitial {
-                        initialScreen
-                    } else {
+                    if self.isInitial {
                         Image("tripitacalogo")
                             .resizable()
                             .scaledToFill()
                             .frame(width: 100, height: 50)
-
                     }
                 }
             }
